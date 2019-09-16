@@ -2,7 +2,7 @@
 
 Redmine plugin that allows for the configuration of which project should be used for issues created from email per user.
 
-The development of this plugin was funded by http://www.chillisoft.co.za
+This is a fork of http://github.com/markwhitfeld/redmine_incoming_emails.
 
 ## Features
 
@@ -11,7 +11,7 @@ The development of this plugin was funded by http://www.chillisoft.co.za
 
 ## Getting the plugin
 
-A copy of the plugin can be downloaded from GitHub: http://github.com/markwhitfeld/redmine_incoming_emails
+A copy of the plugin can be downloaded from GitLab: https://gitlab.com/monobilisim/redmine/redmine_incoming_emails
 
 ## Installation
 
@@ -19,7 +19,7 @@ Clone the repro from github to install the plugin.
 
 Run the following git command from the redmine plugins folder:
 ```
-git clone git://github.com/markwhitfeld/redmine_incoming_emails.git redmine_incoming_emails
+git clone https://gitlab.com/monobilisim/redmine/redmine_incoming_emails.git redmine_incoming_emails
 ```
 There aren't any database migrations that need to be run for the plugin.
 
@@ -29,7 +29,7 @@ Further information about plugin installation can be found at: http://www.redmin
 
 ## Compatibility
 
-The latest version of this plugin is only tested with Redmine 2.3.x.
+The latest version of this plugin is tested with Redmine 4.0.x.
 
 ## License
 
