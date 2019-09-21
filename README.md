@@ -2,7 +2,7 @@
 
 Redmine plugin that allows for the configuration of which project should be used for issues created from email per user.
 
-This is a fork of http://github.com/markwhitfeld/redmine_incoming_emails.
+This is a Redmine 4.0 compatible fork of http://github.com/markwhitfeld/redmine_incoming_emails.
 
 ## Features
 
